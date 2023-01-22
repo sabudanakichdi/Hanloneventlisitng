@@ -1,0 +1,49 @@
+{
+  "events":[
+    {
+      "name": "Hanlon Lab Working session",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/01/23"
+    },
+    {
+      "name": "Intro to Python 1",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/03/23"
+    },
+    {
+      "name": "Intro to accessing Hanlon Lab Dataset - Session 1",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/05/23"
+    },
+    {
+      "name": "Intro to Python 2",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/06/23"
+    },
+    {
+      "name": "Understanding of Bloomberg dataset",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/07/23"
+    },
+    {
+      "name": "Intro to Python 3",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/10/23"
+    },
+    {
+      "name": "Intro to PG Admin Part 1",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/09/23"
+    },
+    {
+      "name": "Intro to PG Admin Part 2",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/11/23"
+    },
+    {
+      "name": "Intro to accessing Hanlon Lab Dataset - Session 2",
+      "location": "Hanlon Lab, Babbio Centre",
+      "date": "03/12/23"
+    }
+  ]
+}
